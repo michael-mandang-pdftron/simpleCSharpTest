@@ -36,7 +36,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="SimpleLibCSharpProject">
-      <HintPath>..\..\..\..\..\AutomationFiles\_test\SimpleLibCSharpProject.dll</HintPath>
+      <HintPath>C:\AutomationFiles\_test\SimpleLibCSharpProject.dll</HintPath>
     </Reference>
     <Reference Include="System" />
   </ItemGroup>
